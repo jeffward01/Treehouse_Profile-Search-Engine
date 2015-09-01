@@ -1,0 +1,11 @@
+To-Do
+
+Add CSS to the router.js so that a CSS page can be integrated into the fole system (Currently program uses in-line CSS).
+
+Note: use the Lorem Ipsum Generator Code to examine it.
+Lorem Ipsum source link: https://github.com/SimHub/Simple-lorem-ipsum-generator
+
+
+Uses port 3000
+
+localhost:3000/
